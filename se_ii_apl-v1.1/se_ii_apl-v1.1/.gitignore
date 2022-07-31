@@ -1,0 +1,9 @@
+
+# Eclipse
+/.metadata/
+
+# Document lock files
+*.odt#
+
+# Other unwanted files
+Thumbs.db
